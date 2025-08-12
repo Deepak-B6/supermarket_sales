@@ -27,9 +27,8 @@ E-commerce
 
 *order_items
 
-## Entities
 
-Entities & relationships
+## Entities & relationships
 
 Entities:
 
