@@ -12,27 +12,45 @@ This project involves designing and setting up a relational database from scratc
 
 
 ## Database Name
+
 E-commerce
+
 ## Tables
+
 *customers
+
 *category
+
 *products
+
 *orders
+
 *order_items
-## Entities & Relationships
+
 Entities & relationships
+
 Entities:
+
 customer
+
 categories
+
 product
+
 order
+
 order_items
 
 Relationships:
+
 One customer → many Orders
+
 One category → many Products
+
 One order → many Order_Items
+
 One product → many Order_Items
+
 ## Technologies used
 MySQL Workbench
 SQL (DDL statements)
